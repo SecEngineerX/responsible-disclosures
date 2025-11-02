@@ -28,4 +28,5 @@ It contains:
 
 ### Connect
 💻 Portfolio: [github.com/SecEngineerX](https://github.com/SecEngineerX)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-secengineerx01-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sec-engineerx01/)
 📧 Contact: For responsible disclosure reports or collaboration inquiries.
